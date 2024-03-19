@@ -3,8 +3,7 @@
 🔭 I’m currently working on some cool projects
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupthapa-dev) 
+<!-- ## 🌐 Socials: -->
 
 # 💻 Tech Stack:
 ### Programming Languages:
