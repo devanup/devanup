@@ -1,5 +1,5 @@
 #  About Me:
-👨‍💻 Aspiring Software Engineer <br/>
+👨‍💻 Full Stack Developer <br/>
 🔭 I’m currently working on some cool projects
 
 
