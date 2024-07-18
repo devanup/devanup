@@ -4,6 +4,7 @@
 🔭 **Building Innovative Web Applications** <br/>
 🚀 **Projects**: Working on innovative web applications and AI solutions (some projects are in progress and will be shared soon).
 
+I'm Anup, a full stack developer based in New York. I specialize in building high-quality web applications and have a strong foundation in both front-end and back-end development. Here’s a bit more about me:
 
 <!-- ## 🌐 Socials: -->
 
