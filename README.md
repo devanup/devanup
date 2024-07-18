@@ -1,6 +1,6 @@
 ## About Me
 
-👨‍💻 **Full Stack Software **  
+👨‍💻 **Full Stack Software**  
 🔭 **Building Innovative Web Applications**
 🚀 **Projects**: Working on innovative web applications and AI solutions (some projects are in progress and will be shared soon).
 
