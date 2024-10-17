@@ -1,6 +1,6 @@
 ## About Me
 
-👨‍💻 **Full-Stack Developer**  
+👨‍💻 **Aspiring Software Engineer**  
 🔭 **Building Innovative Web Applications** <br/>
 🚀 **Projects**: Working on innovative web applications and AI solutions (some projects are in progress and will be shared soon)
 
