@@ -5,7 +5,7 @@
 🚀 **Projects**: Working on innovative web applications and AI solutions (some projects are in progress and will be shared soon)
 -->
 
-Hi! I'm Anup, a Full-Stack developer based in New York. I specialize in building high-quality web applications and have a strong foundation in both front-end and back-end development
+Hi! I'm Anup, an aspiring Software Engieer based in New York. I specialize in building high-quality web applications and have a strong foundation in both front-end and back-end development.
 
 <!-- ## 🌐 Socials: -->
 
